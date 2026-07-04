@@ -175,11 +175,7 @@ orders ─────1:N──────► order_items ◄─N:1── produ
 - PostgreSQL **14+**
 - `pip`
 
-### 1. Clone & Enter Project
-```bash
-git clone https://github.com/YOUR_USERNAME/prestigewear-backend.git
-cd prestigewear-backend/backend
-```
+
 
 ### 2. Virtual Environment Banao
 ```bash
@@ -444,5 +440,7 @@ MIT License — free to use for learning and portfolio purposes.
 ---
 
 <p align="center">Made with FastAPI + PostgreSQL 🚀</p>
-#   M E N _ S H O E S _ B A C K E N D  
+#   M E N _ S H O E S _ B A C K E N D 
+ 
+ #   M E N _ S H O E S _ B A C K E N D  
  
